@@ -7,6 +7,7 @@ import CalendarPage from './pages/CalendarPage'
 import AllPage from './pages/AllPage'
 import PersonalList from './pages/PersonalList'
 import NewList from './pages/NewList'
+
 const router = createBrowserRouter([
   {
 path: '/', 
