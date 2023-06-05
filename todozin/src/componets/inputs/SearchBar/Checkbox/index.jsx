@@ -1,5 +1,4 @@
-
-const Today =() => {
+const Checkbox =() => {
     return (
         <form>
                 <input
@@ -15,4 +14,4 @@ const Today =() => {
      
     )
 }
-export default Today
+export default Checkbox
