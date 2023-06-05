@@ -6,7 +6,7 @@ const TodayPage = () => {
     return( 
         <FlexWrapper>
           <Menu/>  
-        </FlexWrapper>
+        </FlexWrapper> //criar a parte de add novas atividades
     ) 
 } // estrutura de função 
 export default TodayPage
